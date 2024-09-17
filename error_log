@@ -1,0 +1,2 @@
+[19-Jun-2022 13:05:19 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/bemfikti/public_html/pemira22/config/koneksi.php on line 13
+[20-Jun-2022 11:45:07 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/bemfikti/public_html/pemira22/config/koneksi.php on line 13
